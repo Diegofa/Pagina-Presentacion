@@ -9,3 +9,4 @@ Empresa: AON MX
 Antiguedad 1 año
 Cargo: Analista de SW 
 Mascotas: 2 perros 2 gatos :) 
+Vivo en el campo
